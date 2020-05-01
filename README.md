@@ -1,4 +1,4 @@
-# Download-Automation-From-IPEDS
+# Web scrapping from IPEDS
 
 
 This python Script is written to download the Data from the IPEDS website automatically.<br>
